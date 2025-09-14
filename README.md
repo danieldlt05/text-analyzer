@@ -32,3 +32,4 @@ A small Python script that reads a plain text file and prints:
    python3 text_analyzer.py
 
 ## Where to Watch Explanation
+https://youtu.be/ghgttiNw0bU
