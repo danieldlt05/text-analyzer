@@ -28,5 +28,5 @@ A small Python script that reads a plain text file and prints:
 
 1. Put your input file in the same folder, e.g. 'sample.txt'.
 2. Run:
-   '''bash
-   python text_analyzer.py
+   python3 --version   # to ensure correct python is active
+   python3 text_analyzer.py
